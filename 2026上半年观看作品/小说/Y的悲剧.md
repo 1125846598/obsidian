@@ -1,7 +1,7 @@
 ---
 type: novel
 status: read
-rating: 9
+rating: 9.5
 author: 阿加莎克里斯蒂
 genre: 推理
 ---
