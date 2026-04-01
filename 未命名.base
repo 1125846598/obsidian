@@ -1,3 +1,4 @@
 views:
   - type: cards
     name: 表格
+    image: file.file
