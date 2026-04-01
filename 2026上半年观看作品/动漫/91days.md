@@ -4,7 +4,7 @@ status: read
 rating: 8.5
 author: 松竹株式会社
 genre: 黑帮
-cover: 
+cover: obsidian://open?vault=obsidian&file=2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A7%82%E7%9C%8B%E4%BD%9C%E5%93%81%2F%E5%8A%A8%E6%BC%AB%2Fassets%2F91days%2Ffile-20260319220052163.png
 ---
 
 
