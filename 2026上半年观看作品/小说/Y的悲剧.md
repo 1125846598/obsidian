@@ -4,6 +4,7 @@ status: read
 rating: 9.5
 author: 阿加莎克里斯蒂
 genre: 推理
+cover: assets/Y的悲剧/file-20260319221308549.png
 ---
 ![455](assets/Y的悲剧/file-20260319221308549.png)
 -   
