@@ -4,8 +4,9 @@ status: read
 rating: 8.5
 author: 松竹株式会社
 genre: 黑帮
+cover: 
 ---
-![305](assets/91days/file-20260319220052163.png)
+
 
 
 
