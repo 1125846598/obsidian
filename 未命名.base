@@ -1,4 +1,12 @@
 views:
   - type: cards
     name: 表格
-    image: note.cssclasses
+    filters:
+      or:
+        - type == "anime"
+        - type == "comic"
+        - type == "novel"
+    image: note.cover
+    imageAspectRatio: 1.45
+  - type: cards
+    name: 视图
