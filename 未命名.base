@@ -6,6 +6,11 @@ views:
         - type == "anime"
         - type == "comic"
         - type == "novel"
+    order:
+      - file.name
+      - rating
+      - genre
+      - author
     image: note.cover
     imageAspectRatio: 1.45
   - type: cards
