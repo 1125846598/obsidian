@@ -1,4 +1,4 @@
 views:
   - type: cards
     name: 表格
-    image: note.type
+    image: note.cssclasses
