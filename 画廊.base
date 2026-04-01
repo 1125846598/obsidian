@@ -13,5 +13,3 @@ views:
       - author
     image: note.cover
     imageAspectRatio: 1.45
-  - type: cards
-    name: 视图
