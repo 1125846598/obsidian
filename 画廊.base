@@ -12,5 +12,8 @@ views:
       - rating
       - genre
       - author
+    sort:
+      - property: rating
+        direction: DESC
     image: note.cover
     imageAspectRatio: 1.45
