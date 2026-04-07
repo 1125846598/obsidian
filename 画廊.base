@@ -6,6 +6,7 @@ views:
         - type == "anime"
         - type == "comic"
         - type == "novel"
+        - type == "game"
     order:
       - file.name
       - rating
