@@ -1,4 +1,9 @@
 {
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
-  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon"
+  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
+  "phycat-colors@@light-color-scheme": "theme-light-sky",
+  "phycat-layout@@rainbow-folders": true,
+  "phycat-layout@@layout-style": "layout-default",
+  "phycat-layout@@bg-mix-percent": 90,
+  "phycat-colors@@dark-color-scheme": "theme-dark-vampire"
 }
