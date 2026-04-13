@@ -2,7 +2,7 @@
 type: novel
 rating: 8
 author: 阿加莎克里斯蒂
-genre: 推理
+tags: 推理
 cover: assets/ABC谋杀案/file-20260319221235060.png
 status: completed
 ---

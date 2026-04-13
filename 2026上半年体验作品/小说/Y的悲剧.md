@@ -2,7 +2,7 @@
 type: novel
 rating: 9.5
 author: 埃勒里·奎因
-genre: 推理
+tags: 推理
 cover: "[[assets/Y的悲剧/file-20260319221308549.png]]"
 status: completed
 ---
