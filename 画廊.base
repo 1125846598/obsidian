@@ -10,8 +10,8 @@ views:
     order:
       - file.name
       - rating
-      - genre
       - author
+      - tags
     sort:
       - property: rating
         direction: DESC
