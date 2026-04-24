@@ -10,4 +10,4 @@ cover: assets/FateStrangeFake/file-20260401102656487.png
 status: completed
 ---
 
-![396](assets/FateStrangeFake/file-20260401102656487.png)
+![396](assets/FateStrangeFake/file-20260424101526042.png)
