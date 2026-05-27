@@ -6,7 +6,7 @@ tags:
   - 电子斗蛐蛐
   - 战斗
   - 群像
-cover: assets/FateStrangeFake/file-20260527132246413
+cover: assets/FateStrangeFake/file-20260527132246413.png
 status: completed
 ---
 
