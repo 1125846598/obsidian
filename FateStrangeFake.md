@@ -1,4 +1,3 @@
----
 type: anime
 rating: 8.5
 author: A1
