@@ -8,3 +8,5 @@ tags:
 cover: assets/天国大魔境/file-20260711011207252.png
 status: completed
 ---
+
+![300](assets/re0/file-20260922204228832.png)
