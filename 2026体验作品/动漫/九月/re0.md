@@ -1,7 +1,7 @@
 ---
 type: anime
-rating: 8.5
-author: Production I.G
+rating: 7
+author: WHITE FOX
 tags:
   - 异世界
   - 智斗
