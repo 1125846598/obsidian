@@ -4,7 +4,7 @@ rating: 7
 author: 动画工坊
 tags:
   - 黑深残
-cover: assets/我推的孩子%20第三季/file-20260922203542282.png
+cover: assets/我推的孩子season4/file-20260922203542282.png
 status: completed
 ---
 
